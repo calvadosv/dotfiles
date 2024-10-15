@@ -1,0 +1,7 @@
+[user]
+	email = jiwon.hu@suse.com
+	name = Jiwon Hu
+[init]
+	defaultBranch = main
+[core]
+	excludesfile = /Users/jhu/.gitignore_global
